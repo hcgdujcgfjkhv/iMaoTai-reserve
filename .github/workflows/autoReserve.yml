@@ -4,9 +4,6 @@
 name: imaotai-action
 
 on:
-  workflow_dispatch:
-
-on:
   push:
     branches: [ "master" ]
     paths:
